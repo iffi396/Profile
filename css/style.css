@@ -1231,6 +1231,7 @@ footer p {
 }
 @media(max-width:991px){
 .aboutmy-services {
+    margin-top: 150px;
     margin-top: 2em;
     padding: 0px;
 }
